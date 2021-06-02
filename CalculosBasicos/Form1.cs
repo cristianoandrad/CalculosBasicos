@@ -10,11 +10,24 @@ using System.Windows.Forms;
 
 namespace CalculosBasicos
 {
-    public partial class Form1 : Form
+    public partial class Calculadora : Form
     {
-        public Form1()
+        public Calculadora()
         {
             InitializeComponent();
+        }
+
+        private void btnLimpar_Click(object sender, EventArgs e)
+        {
+            txtValor1.Text = "";
+            txtValor2.Text = "";
+            txtResultado.Text = "";
+
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }

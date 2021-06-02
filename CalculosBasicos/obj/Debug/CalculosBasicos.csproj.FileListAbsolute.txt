@@ -1,0 +1,10 @@
+C:\Users\Suporte\source\repos\CalculosBasicos\CalculosBasicos\bin\Debug\CalculosBasicos.exe.config
+C:\Users\Suporte\source\repos\CalculosBasicos\CalculosBasicos\bin\Debug\CalculosBasicos.exe
+C:\Users\Suporte\source\repos\CalculosBasicos\CalculosBasicos\bin\Debug\CalculosBasicos.pdb
+C:\Users\Suporte\source\repos\CalculosBasicos\CalculosBasicos\obj\Debug\CalculosBasicos.csprojAssemblyReference.cache
+C:\Users\Suporte\source\repos\CalculosBasicos\CalculosBasicos\obj\Debug\CalculosBasicos.Calculadora.resources
+C:\Users\Suporte\source\repos\CalculosBasicos\CalculosBasicos\obj\Debug\CalculosBasicos.Properties.Resources.resources
+C:\Users\Suporte\source\repos\CalculosBasicos\CalculosBasicos\obj\Debug\CalculosBasicos.csproj.GenerateResource.cache
+C:\Users\Suporte\source\repos\CalculosBasicos\CalculosBasicos\obj\Debug\CalculosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\source\repos\CalculosBasicos\CalculosBasicos\obj\Debug\CalculosBasicos.exe
+C:\Users\Suporte\source\repos\CalculosBasicos\CalculosBasicos\obj\Debug\CalculosBasicos.pdb
