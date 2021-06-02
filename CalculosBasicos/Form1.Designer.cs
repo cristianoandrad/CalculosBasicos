@@ -109,6 +109,7 @@
             this.btnSomar.TabIndex = 7;
             this.btnSomar.Text = "Somar";
             this.btnSomar.UseVisualStyleBackColor = true;
+            this.btnSomar.Click += new System.EventHandler(this.btnSomar_Click);
             // 
             // btnSubtrair
             // 
@@ -118,6 +119,7 @@
             this.btnSubtrair.TabIndex = 8;
             this.btnSubtrair.Text = "Subtrair";
             this.btnSubtrair.UseVisualStyleBackColor = true;
+            this.btnSubtrair.Click += new System.EventHandler(this.btnSubtrair_Click);
             // 
             // btnMultiplicar
             // 
@@ -127,6 +129,7 @@
             this.btnMultiplicar.TabIndex = 9;
             this.btnMultiplicar.Text = "Multiplicar";
             this.btnMultiplicar.UseVisualStyleBackColor = true;
+            this.btnMultiplicar.Click += new System.EventHandler(this.btnMultiplicar_Click);
             // 
             // btnDividir
             // 
@@ -136,6 +139,7 @@
             this.btnDividir.TabIndex = 10;
             this.btnDividir.Text = "Dividir";
             this.btnDividir.UseVisualStyleBackColor = true;
+            this.btnDividir.Click += new System.EventHandler(this.btnDividir_Click);
             // 
             // btnLimpar
             // 
@@ -161,7 +165,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(290, 219);
+            this.ClientSize = new System.Drawing.Size(290, 230);
             this.Controls.Add(this.btnSair);
             this.Controls.Add(this.btnLimpar);
             this.Controls.Add(this.btnDividir);
@@ -176,7 +180,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Calculadora";
-            this.Text = "Form1";
+            this.Text = "Cálculos Básicos";
+            this.Load += new System.EventHandler(this.Calculadora_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
